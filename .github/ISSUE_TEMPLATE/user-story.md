@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Practice template
+about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
